@@ -33,11 +33,10 @@
 
 .description {
   font-weight: normal;
-  padding: .5rem;
   text-align: center;
   margin: 0;
   position: absolute;
-  bottom: 0;
+  bottom: 1rem;
   right: 2rem;
   left: 2rem;
   text-shadow: 0 0 4px #ccc;
@@ -51,5 +50,9 @@
   .wrapper {
     height: 431.5px;
     padding-bottom: 0;
+  }
+  .description {
+    font-size: 1.7rem;
+
   }
 }

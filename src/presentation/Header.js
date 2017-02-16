@@ -21,7 +21,6 @@ const Header = (props) => {
               className="menu-button"
               colorIcon={ { color: colorText } }/>
           </div>
-
           <h3 className='description'>{props.description}</h3>
         </div>
 
